@@ -1,2 +1,2 @@
-let a = 5;
-console.log(a);
+let num = 5;
+console.log(num);

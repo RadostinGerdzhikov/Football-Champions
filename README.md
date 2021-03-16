@@ -1,6 +1,6 @@
 # Football-Champions
 ## The Fotball is Magic
 ### Champions of:
-  - Europe
+  - Europe2
   - Asia
   - Africa

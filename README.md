@@ -6,4 +6,9 @@
 ### Champions of:
   - Europe2
   - Asia
-  - Africa
+  - Africa  
+```diff 
+! In Bulgaria is the best stadium
++ The most cool stadium is in Plovidiv
+@@ and in RAzgrad @@
+```
